@@ -26,7 +26,7 @@ function svgSprite(project) {
       inlineSvg: true
     }))
     .pipe(rename('sprite.svg'))
-    .pipe(dest(`./sprite/${project}`));
+    .pipe(dest(`../react-apps/${project}/src`));
 }
 
 
