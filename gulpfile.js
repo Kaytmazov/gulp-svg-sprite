@@ -38,10 +38,14 @@ function svgMin(project) {
         removeViewBox: false
       }]
     }))
-    .pipe(dest(`./svg-min${project}`));
+    .pipe(dest(`../react-apps/${project}/src`));
 }
 
 exports.opendag = () => svgSprite('open-dagestan');
-exports.billboard = () => svgSprite('billboard');
 exports.opendagMin = () => svgMin('open-dagestan');
+
+exports.billboard = () => svgSprite('billboard');
 exports.billboardMin = () => svgMin('billboard');
+
+exports.statistics = () => svgSprite('mfc-statistics');
+exports.statisticsMin = () => svgMin('mfc-statistics');
