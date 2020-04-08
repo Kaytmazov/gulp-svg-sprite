@@ -47,5 +47,11 @@ exports.opendagMin = () => svgMin('open-dagestan');
 exports.billboard = () => svgSprite('billboard');
 exports.billboardMin = () => svgMin('billboard');
 
+exports.aisBillboard = () => svgSprite('ais-billboard');
+exports.aisBillboardMin = () => svgMin('ais-billboard');
+
 exports.statistics = () => svgSprite('mfc-statistics');
 exports.statisticsMin = () => svgMin('mfc-statistics');
+
+exports.minzdrav = () => svgSprite('minzdrav');
+exports.minzdravMin = () => svgMin('minzdrav');
