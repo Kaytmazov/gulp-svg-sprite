@@ -53,5 +53,11 @@ exports.aisBillboardMin = () => svgMin('ais-billboard');
 exports.statistics = () => svgSprite('mfc-statistics');
 exports.statisticsMin = () => svgMin('mfc-statistics');
 
+exports.mfcDatabook = () => svgSprite('mfc-databook');
+exports.mfcDatabookMin = () => svgMin('mfc-databook');
+
 exports.minzdrav = () => svgSprite('minzdrav');
 exports.minzdravMin = () => svgMin('minzdrav');
+
+exports.aisMinzdrav = () => svgSprite('ais-minzdrav');
+exports.aisMinzdravMin = () => svgMin('ais-minzdrav');
