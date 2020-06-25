@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="512px" viewBox="0 0 240 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>file</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file" fill="#000000" fill-rule="nonzero">
+            <path d="M90,512 C40.374,512 0,471.626 0,422 L0,120 C0,53.832 53.832,0 120,0 C186.168,0 240,53.832 240,120 L240,422 L210,422 L210,120 C210,70.374 169.626,30 120,30 C70.374,30 30,70.374 30,120 L30,422 C30,455.084 56.916,482 90,482 C123.084,482 150,455.084 150,422 L150,180 C150,163.458 136.542,150 120,150 C103.458,150 90,163.458 90,180 L90,422 L60,422 L60,180 C60,146.916 86.916,120 120,120 C153.084,120 180,146.916 180,180 L180,422 C180,471.626 139.626,512 90,512 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
